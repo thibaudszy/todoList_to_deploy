@@ -12,6 +12,6 @@
     "dialect": "mysql"
   },
   "production": {
-    "use_env_variable": "DATABASE_URL"
+    "use_env_variable": "postgres://mkcemubk:jdcJJe8T070m1wYuRi9WRwg47ihG8YWf@kandula.db.elephantsql.com:5432/mkcemubk"
   }
 }
